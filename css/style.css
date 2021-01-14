@@ -1,0 +1,16 @@
+.backgroundcolor{
+    background-color:cornsilk;
+}
+.buttonimage{
+    background-image: linear-gradient(yellowgreen, yellowgreen);
+}
+.filled{
+    color: white;
+}
+.womenjacket{
+    height:320px;
+    background-color: lightgray;
+}
+body{
+    margin:0;
+}
